@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "Marca": "Shifter",
+        "Modelo": "SHF21MT26BK001",
+        "Rodado": 26,
+        "Año de fabricación": 2021,
+        "Color": "Negro",
+        "Peso en Kilogramos": 15,
+        "Tipo": "Montañera",
+        "Precio": 749.99,
+        "Vendida": false
+    },
+    {
+        "id": 2,
+        "Marca": "Fierce",
+        "Modelo": "FRC20FX28GR112",
+        "Rodado": 28,
+        "Año de fabricación": 2020,
+        "Color": "Gris",
+        "Peso en Kilogramos": 16,
+        "Tipo": "Paseo",
+        "Precio": 599.99,
+        "Vendida": true
+    },
+    {
+        "id": 3,
+        "Marca": "Battle",
+        "Modelo": "BTL22RT26RD009",
+        "Rodado": 26,
+        "Año de fabricación": 2022,
+        "Color": "Rojo",
+        "Peso en Kilogramos": 17,
+        "Tipo": "Retro",
+        "Precio": 699.99,
+        "Vendida": false
+    },
+    {
+        "id": 4,
+        "Marca": "SLP",
+        "Modelo": "SLP21MT29GN123",
+        "Rodado": 29,
+        "Año de fabricación": 2021,
+        "Color": "Verde",
+        "Peso en Kilogramos": 16,
+        "Tipo": "Montañera",
+        "Precio": 799.99,
+        "Vendida": true
+    },
+    {
+        "id": 5,
+        "Marca": "Olmo",
+        "Modelo": "OLM20PS28BL010",
+        "Rodado": 28,
+        "Año de fabricación": 2020,
+        "Color": "Azul",
+        "Peso en Kilogramos": 15,
+        "Tipo": "Paseo",
+        "Precio": 649.99,
+        "Vendida": false
+    },
+    {
+        "id": 6,
+        "Marca": "Fixie",
+        "Modelo": "FX22TR29BK005",
+        "Rodado": 29,
+        "Año de fabricación": 2022,
+        "Color": "Negro",
+        "Peso en Kilogramos": 13,
+        "Tipo": "Triatlón",
+        "Precio": 899.99,
+        "Vendida": true
+    },
+    {
+        "id": 7,
+        "Marca": "Halley",
+        "Modelo": "HX19RT28RD009",
+        "Rodado": 28,
+        "Año de fabricación": 2019,
+        "Color": "Rojo",
+        "Peso en Kilogramos": 17,
+        "Tipo": "Retro",
+        "Precio": 699.99,
+        "Vendida": false
+    },
+    {
+        "id": 8,
+        "Marca": "TopMega",
+        "Modelo": "TM20FX28AR315",
+        "Rodado": 28,
+        "Año de fabricación": 2020,
+        "Color": "Amarillo",
+        "Peso en Kilogramos": 16,
+        "Tipo": "Paseo",
+        "Precio": 699.99,
+        "Vendida": true
+    },
+    {
+        "id": 9,
+        "Marca": "SLP",
+        "Modelo": "SLP21RT29GR005",
+        "Rodado": 29,
+        "Año de fabricación": 2021,
+        "Color": "Verde",
+        "Peso en Kilogramos": 15,
+        "Tipo": "Retro",
+        "Precio": 799.99,
+        "Vendida": false
+    },
+    {
+        "id": 10,
+        "Marca": "Fixie",
+        "Modelo": "FX22PS26OR003",
+        "Rodado": 26,
+        "Año de fabricación": 2022,
+        "Color": "Naranja",
+        "Peso en Kilogramos": 16,
+        "Tipo": "Paseo",
+        "Precio": 649.99,
+        "Vendida": true
+    }
+]
